@@ -1,0 +1,40 @@
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+@media (min-width: 768px){
+	.navbar {
+	    border-radius: 0px;
+	}
+}
+
+.carousel-inner > .item > img,  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+      height: auto;
+      box-shadow: 0px 0px 20px #fff;
+      
+}
+
+body{
+ 
+ background-repeat:fill;
+}
+
+.carousel{
+	margin-top: -20px;
+}
+
+.footer-text{
+text-align: center;
+color: white;
+}
+
+.custom-model{
+	margin-left: 10%;
+}
+
+.custom-model-content{
+	width: 70%;
+}
